@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "DOs & DONTs",
+"productVersion": "0.1",
+"dataUrl": "3a7a4ee8dacee546569c2a61d25d50a9.unityweb",
+"wasmCodeUrl": "1a6f5ff74bc7a62a141fb69fc5b4b94d.wasm",
+"wasmFrameworkUrl": "5f675c5f12ae5ecbfad1773a9c796c49.unityweb",
+"wasmSymbolsUrl": "e8cab88e605523db1e27e2c093640aa6.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.4f1"
+}
